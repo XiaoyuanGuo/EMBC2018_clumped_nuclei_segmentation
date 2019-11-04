@@ -1,7 +1,7 @@
 # EMBC2018_clumped_nuclei_segmentation
 This is a reimplementation of the paper **Clumped Nuclei Segmentation with Adjacent Point Match and Local Shape-Based Intensity Analysis in Fluorescence Microscopy Images**, maintained by Xiaoyuan Guo.
 
-![png](Paper_Illustration/RES)
+![png](https://github.com/XiaoyuanGuo/EMBC2018_clumped_nuclei_segmentation/blob/master/Data/results.png)
 
 ### Table of Content
 
