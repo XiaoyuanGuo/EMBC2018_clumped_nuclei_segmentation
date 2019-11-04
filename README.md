@@ -11,6 +11,6 @@ This is a reimplementation of the paper **Clumped Nuclei Segmentation with Adjac
 
 -[Usage] (How to run the code)
 
- * First clone the repository and execute Nuclei_Seg.m file.
+ * First clone the repository and execute **/Code/Nuclei_Seg.m** file.
  *  Prerequsites: Matlab2017a
- * Nuclei_Seg.m reads an image and some predefined parameters to segment clumped  nuclei and plot the connecting lines on the original images.
+ * **Nuclei_Seg.m** reads an image and some predefined parameters to segment clumped  nuclei and plot the connecting lines on the original images.
